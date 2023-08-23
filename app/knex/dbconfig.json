@@ -1,0 +1,14 @@
+{
+  "client": "mysql",
+  "connection": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "pavan",
+    "password": "Pavan@12345",
+    "database": "naukri_data"
+  },
+  "pool": {
+    "min": 0,
+    "max": 10
+  }
+}
